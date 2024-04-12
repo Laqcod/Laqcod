@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laqcod
+- 👋 Hi, I’m @Levi k koikai 
 - 👀 I’m interested in java script and c
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on java script and c
